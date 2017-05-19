@@ -1,0 +1,87 @@
+﻿/* JDK - INFORMÁTICA
+SITE MODELO 123 */
+div{
+	border: #000 solid 1px;
+}
+
+body{
+	background-color: #999;
+}
+
+.texto_centro{
+	
+	text-align: center;
+	color: #3366FF ;
+}
+
+.texto_centroh3{
+	
+	text-align: center;
+	color: #33CCFF;
+}
+
+/* O QUE FAZEMOS */
+
+.parte1{
+	background-color: #000066;
+	color: #FFF;
+	text-align: justify;
+}
+
+.parte2{
+	background-color: #006600;
+	color: #FFF;
+	text-align: justify;
+}
+
+.parte3{
+	background-color: #660000;
+	color: #fff;
+	text-align: justify;
+}
+
+/* PARTE DO SOBRE O SITE */
+.sobre1{
+	background-color: #B2DFEE;
+	color: #000;
+	text-align: justify;	
+}
+
+.sobre2{
+	background-color: #9AC0CD;
+	color: #fff;
+	text-align: justify;	
+}
+
+/* A EQUIPE */
+
+.img_equi{
+	background-color: #00BFFF;
+	text-align: center;
+}
+
+.txt_equi{
+	margin-top: 10px;
+	text-align: center;
+	color: #000;
+	font-weight: bold;
+}
+
+/* FORMULÁRIO */
+.img_form{
+	text-align: center;
+}
+
+/* RODA PÉ */
+.footer{
+	background-color: #000;
+	color: #fff;
+}
+
+
+/* POST's */
+
+.dia{
+ font-size: 50px;
+ text-align: center;	
+}
